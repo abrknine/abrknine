@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishekbahukh8" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekbahukh8?logo=twitter&style=for-the-badge" alt="abhishekbahukh8" /></a> </p>
 
-- char name[20]= "Abhishek bahukhandi";
+- char name[1000]= "Abhishek bahukhandi";
 - cout<<name;
 - char passion[30]="Coding";
 - cout<<passion;
