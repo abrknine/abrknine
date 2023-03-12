@@ -16,7 +16,7 @@
 - while(live)
 - {
 - string docode =(alive>0)?"DO CODE":"Die";
-- cout<<docode<<endl;
+- cout<<Docode<<endl;
 - alive++;
 - }
 
