@@ -12,7 +12,7 @@
 - char Passion[30]="Coding";
 - cout<<Passion;
 - bool live=true; 
-- int alive=0;
+- int Alive=0;
 - while(live)
 - {
 - string docode =(alive>0)?"DO CODE":"Die";
