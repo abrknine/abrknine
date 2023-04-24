@@ -11,9 +11,9 @@
 - cout<<name;
 - char Passion[30]="Coding";
 - cout<<Passion;
-- bool live=true; 
+- bool  Live=true; 
 - int Alive=0;
-- while(live)
+- while(Live)
 - {
 - string Docode =(alive>0)?"DO CODE":"Die";
 - cout<<Docode<<endl;
