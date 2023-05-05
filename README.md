@@ -9,7 +9,7 @@
 
 - char name[1000]= "Abhishek Bahukhandi";
 - cout<<name;
-- char Passion[30]="coding";
+- char Passion[30]="Coding";
 - cout<<Passion;
 - bool  Live=true; 
 - int Alive=0;
