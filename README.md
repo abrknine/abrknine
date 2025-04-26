@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bahukhandi</h1>
-<h3 align="center">A passionate front-end web developer n C++ programmer</h3>
+<h3 align="center">Passionate about Software Systems and development Writes Cpp programs sometimes</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8113.jpg?w=740&t=st=1663174320~exp=1663174920~hmac=d90a4efdd268de64f2ed8d210843abbe50f4f9e3b3e40a7995beaa505223f901">
 
 
